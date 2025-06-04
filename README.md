@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ndban2002
-- 👀 I’m interested in Machine Learning, Computer Vision, NLP,...
+- 👀 I’m Data Engineer.
 - 🌱 I graduated with a bachelor's degree in Computer Science from Ton Duc Thang University.
 
 
